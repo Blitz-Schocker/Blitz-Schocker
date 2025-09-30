@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Blitz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blitz-schocker&label=Profile%20views&color=0e75b6&style=flat" alt="blitz-schocker" /> </p>
-> 💼 **IT Specialist for System Integration**  
-> ☕ Fokus auf **Java**, Netzwerke & Infrastruktur – dazu ein bisschen Scripting & DevOps.
+## 💼 About Me
+
+- ✨ **IT Specialist for System Integration**  
+- ☕ Fokus auf **Java**, Netzwerke & Infrastruktur – dazu ein bisschen Scripting & DevOps.
 
 <p align="left">
 </p>
 
 ## 🚀 Tech Stack
-- ☕ Java | 🐧 Linux | 🐳 Docker  
-- 🖥️ Windows Server | 🌐 Networking | 🔧 Git  
+- ☕ Java | 🌐 Networking | 🐳 Docker  
+- 🖥️ Windows Server | 🐧 Linux | 🔧 Git  
 
 <!--
 **Blitz-Schocker/Blitz-Schocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
