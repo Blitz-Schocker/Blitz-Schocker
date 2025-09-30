@@ -4,7 +4,6 @@
 
 ## 💼 About Me
 - ✨ **IT Specialist for System Integration**  
-- ☕ Fokus auf **Java**, Netzwerke & Infrastruktur – dazu ein bisschen Scripting & DevOps  
 
 ---
 
@@ -13,6 +12,7 @@
 - 🖥️ Windows Server | 🐧 Linux | 🔧 Git  
 
 ---
+✨ *"Automate the boring stuff – focus on what matters."*
 
 <!--
 **Blitz-Schocker/Blitz-Schocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
