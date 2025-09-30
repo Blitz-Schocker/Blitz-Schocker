@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blitz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blitz-schocker&label=Profile%20views&color=0e75b6&style=flat" alt="blitz-schocker" /> </p>
+<p align="left">
+</p>
 ## 💼 About Me
 
 - ✨ **IT Specialist for System Integration**  
