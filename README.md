@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Blitz</h1>
-<p align="left">
-</p>
+
+---
+
 ## 💼 About Me
 - ✨ **IT Specialist for System Integration**  
-- ☕ Fokus auf **Java**, Netzwerke & Infrastruktur – dazu ein bisschen Scripting & DevOps.
+- ☕ Fokus auf **Java**, Netzwerke & Infrastruktur – dazu ein bisschen Scripting & DevOps  
 
-<p align="left">
-</p>
+---
 
 ## 🚀 Tech Stack
 - ☕ Java | 🌐 Networking | 🐳 Docker  
 - 🖥️ Windows Server | 🐧 Linux | 🔧 Git  
+
+---
 
 <!--
 **Blitz-Schocker/Blitz-Schocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
